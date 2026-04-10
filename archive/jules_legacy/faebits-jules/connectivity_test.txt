@@ -1,0 +1,2 @@
+This is a connectivity test file.
+Created to verify GITHUB_PAT usage.
